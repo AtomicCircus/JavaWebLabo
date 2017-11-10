@@ -1,0 +1,7 @@
+server:
+  port: 8082
+  contextPath: /firstSpring
+spring:
+    datasource:
+      password: mdp
+      url: jdbc:mysql://localhost:3306/LaboSecurite?user=root&useSSL=false
